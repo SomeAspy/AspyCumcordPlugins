@@ -1,0 +1,7 @@
+{
+  "name": "Quick Star",
+  "description": "Add a button to star messages easily",
+  "author": "aspy.dev",
+  "file": "index.jsx",
+  "license": "MIT"
+}

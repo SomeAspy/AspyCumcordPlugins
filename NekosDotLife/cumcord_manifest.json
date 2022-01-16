@@ -1,0 +1,7 @@
+{
+  "name": "NekosDotLife",
+  "description": "A variety of things from the Nekos.life api",
+  "author": "https://aspy.dev",
+  "file": "index.js",
+  "license": "MIT"
+}
